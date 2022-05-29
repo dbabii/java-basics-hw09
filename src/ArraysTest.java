@@ -22,8 +22,17 @@ public class ArraysTest {
                         new String[]{"here", "is", "some", "text", ".", "text"},
                         new String[]{"some", "text", "above", "."},
                         new String[]{"some", "text", "."}
+                },
+                {
+                        new String[]{"first", "bigger", "attempt", "!"},
+                        new String[]{"second", "biggest", "attempt", "!"},
+                        new String[]{"attempt", "!"}
+                },
+                {
+                        new String[]{"null", "bacon", "cream", "sugar", "pros", "wine"},
+                        new String[]{"void", "eggs", "wine", "touch", "go", "null"},
+                        new String[]{"wine", "null"}
                 }
-                // TODO add 2 more test data here
         };
     }
 
