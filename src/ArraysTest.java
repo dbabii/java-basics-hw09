@@ -25,13 +25,13 @@ public class ArraysTest {
                 },
                 {
                         new String[]{"first", "bigger", "attempt", "!"},
-                        new String[]{"second", "biggest", "attempt", "!"},
-                        new String[]{"attempt", "!"}
+                        new String[]{"second", "attempt", "biggest", "!"},
+                        new String[]{"!", "attempt"}
                 },
                 {
-                        new String[]{"null", "bacon", "cream", "sugar", "pros", "wine"},
+                        new String[]{"null", "bacon", "cream", "sugar", "pros", "wine", "null"},
                         new String[]{"void", "eggs", "wine", "touch", "go", "null"},
-                        new String[]{"wine", "null"}
+                        new String[]{"null", "wine"}
                 }
         };
     }
